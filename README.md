@@ -35,6 +35,14 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </div>
 
+---
+
+### :fire: My Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CypherSoldier">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CypherSoldier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)">
+
+
 <!--
 **CypherSoldier/CypherSoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
