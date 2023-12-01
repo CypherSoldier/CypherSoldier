@@ -19,9 +19,9 @@
 ---
 
 ### About Me:
-- :telescope: null
-- :seedling: null
-- :zap: null
+- :telescope: Studying BSc Informatics, aspiring to be a software engineer.
+- :seedling: I'm currently learning ReactJS, and back-end technologies(Node.js, Express, MongoDB)
+- :zap: I'm looking to collaborate on new business ideas
 
 ---
 
